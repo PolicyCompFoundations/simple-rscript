@@ -12,7 +12,7 @@ This is a demo R script.
 1. Open your command line terminal and navigate to your Development folder
   
 	```
-	cd ~/Development/
+	cd ~/Github/
 	```
 
 2. Clone the repository using the SSH link given to you in GitHub, it should look something like this:
@@ -24,13 +24,13 @@ This is a demo R script.
 3. In the command line, navigate into that folder and then open it in your text editor. 
 
 	```
-	cd ~/Development/simple-rscript
+	cd ~/Github/simple-rscript
 	```
 
 4. Now open the code in RStudio. Note, if the `open .` command in the instructions below doesn't work for you, you can just open RStudio yourself and open this folder from within RStudio by clicking the "File" menu, then "Open".
 
 	```
-	open ~/Development/simple-rscript
+	open ~/Github/simple-rscript
 	```
 
 4. Once you have the files on your computer, find them in and double click on `index.html` to view it in a web browser (you can refresh the page to view it again after you add new code). Congrats! You now have a copy of the website on your own computer. You'll notice the URL of your browser isn't on the web, now it is pointing to a file on your computer.
