@@ -9,7 +9,7 @@ This is a demo R script.
 
 ### Cloning The Repository (making a local copy on your computer)
 
-1. Open your command line terminal and navigate to your Development folder
+1. Open your command line terminal and navigate to your Github folder
   
 	```
 	cd ~/Github/
@@ -27,13 +27,13 @@ This is a demo R script.
 	cd ~/Github/simple-rscript
 	```
 
-4. Now open the code in RStudio. Note, if the `open .` command in the instructions below doesn't work for you, you can just open RStudio yourself and open this folder from within RStudio by clicking the "File" menu, then "Open".
+4. Now open the folder on your computer. Note, if the `open .` command in the instructions below doesn't work for you, you can just open RStudio yourself and open this file from within RStudio.
 
 	```
 	open ~/Github/simple-rscript
 	```
 
-4. Once you have the files on your computer, find them in and double click on `index.html` to view it in a web browser (you can refresh the page to view it again after you add new code). Congrats! You now have a copy of the website on your own computer. You'll notice the URL of your browser isn't on the web, now it is pointing to a file on your computer.
+5. Once you have the files on your computer, find them in and double click on `sample-script.R` to view it in a RStudio. Congrats! You now have a copy of the script on your own computer. 
 
 ### Editing The Script
 
